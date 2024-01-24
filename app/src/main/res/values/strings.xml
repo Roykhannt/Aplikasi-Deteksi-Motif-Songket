@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mosket</string>
+    <string name="buttonSelectPhoto">Buka Galeri</string>
+    <string name="buttonTakePhoto">Buka Kamera</string>
+    <string name="buttonDiagnose">Deteksi</string>
+    <string name="defaultImage">Default image set now...</string>
+    <string name="descriptionImage">View for displaying image</string>
+
+
+    //Headings
+    <string name="heading_one">Jelajahi Motif Songket Riau Dengan Lebih Mudah </string>
+    <string name="heading_two">Temukan Motif Songket: Deteksi Motif Secara Cepat dan Akurat!</string>
+    <string name="heading_three">Upload Dari Galeri atau Foto Motif Songket Secara Langsung</string>
+
+
+    //Description
+    <string name="desc_one">Ketehui Lebih Banyak Tentang Motif Songket Asal Riau</string>
+    <string name="desc_two">Unggah foto motif songket, Mosket akan mendeteksi motifnya secara otomatis!</string>
+    <string name="desc_three">Mosket dapat mengetahui motif songket dari galeri atau kamera dari aplikasi Mosket </string>
+</resources>
